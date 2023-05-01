@@ -33,6 +33,6 @@ neuroimaging, and surveys.
 
 Teaching
 ---
-Pedagogy is a critical aspect of my work. I always strive to implement evidence-based
+Pedagogy is a critical aspect of my work. I strive to implement evidence-based
 methods in the classroom and to support diversity, equity, and inclusion in the next
-generation of scientists.
+generation of scientists. I especially enjoy one-on-one mentoring.
