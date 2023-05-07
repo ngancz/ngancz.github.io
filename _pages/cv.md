@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+ngancz.github.io/files/Naomi Gancz CV 4.27.23_web.pdf
+
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
