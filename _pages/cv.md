@@ -7,9 +7,11 @@ redirect_from:
   - /resume
 ---
 
+[Download CV]('http://academicpages.github.io/files/Naomi Gancz CV 4.27.23_web.pdf')
+
 {% include base_path %}
 
-[Download paper here]('http://academicpages.github.io/files/Naomi Gancz CV 4.27.23_web.pdf')
+
 
 Education
 ======
