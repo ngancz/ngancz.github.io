@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-ngancz.github.io/files/Naomi Gancz CV 4.27.23_web.pdf
+[Download paper here](http://academicpages.github.io/files/Naomi Gancz CV 4.27.23_web.pdf)
 
 Education
 ======
