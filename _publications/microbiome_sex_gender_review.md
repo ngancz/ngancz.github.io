@@ -18,4 +18,4 @@ treatments for adverse health outcomes with BGMA-related etiologies.
 
 [Download paper here](http://ngancz.github.io/files/microbiome_sex_gender_review.pdf)
 
-Gancz, N.N., Levinson, J.A., Callaghan, B.C.. (2023). "Sex and Gender as Critical and Distinct Contributors to the Human Brain-Gut-Microbiome Axis" <i>Brain Research Bulletin</i>. 199.
+Gancz, N.N., Levinson, J.A., Callaghan, B.C.. "Sex and Gender as Critical and Distinct Contributors to the Human Brain-Gut-Microbiome Axis" <i>Brain Research Bulletin</i>. 199. (2023). 
