@@ -1,7 +1,7 @@
----
+.---
 title: "Sex and Gender as Critical and Distinct Contributors to the Human Brain-Gut-Microbiome Axis"
 collection: publications
-permalink: /publication/microbiome_sex_gender_review.pdf
+permalink: /publication/microbiome_sex_gender_review.md
 excerpt: 'Research practices that consider the complexity and distinctiveness of sex and gender in relation to 
 the human brain-gut-microbiome axis will
 not only yield improved understanding of this consequential system, but will also enhance the development of
