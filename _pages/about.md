@@ -21,9 +21,8 @@ brain and gut talk to each other and to the microbiome: the microorganisms that
 inhabit our body. Normally, the microorganisms that live in and on our bodies
 help us to stay healthy, but sometimes, distruptions to the balance of the microbiome
 can increase our risk for disease. Understanding how early experiences can affect
-our health by changing our brain-gut-microbiome axis will help us to figure out how
-dietary changes, prebiotics, probiotics, or even microbiota transplants can help
-us to stay healthy.
+our health by changing our brain-gut-microbiome axis will help us to figure out new
+ways to stay healthy.
 
 Research Methods
 ---
