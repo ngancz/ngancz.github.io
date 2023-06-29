@@ -1,15 +1,20 @@
 ---
-title: "Paper Title Number 1"
+title: "Sex and Gender as Critical and Distinct Contributors to the Human Brain-Gut-Microbiome Axis"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/microbiome_sex_gender_review.pdf
+excerpt: 'Research practices that consider the complexity and distinctiveness of sex and gender in relation to 
+the human brain-gut-microbiome axis will
+not only yield improved understanding of this consequential system, but will also enhance the development of
+treatments for adverse health outcomes with BGMA-related etiologies.'
+date: 2023
+venue: 'Brain Research Bulletin'
+paperurl: 'http://academicpages.github.io/files/microbiome_sex_gender_review.pdf'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+Research practices that consider the complexity and distinctiveness of sex and gender in relation to 
+the human brain-gut-microbiome axis will
+not only yield improved understanding of this consequential system, but will also enhance the development of
+treatments for adverse health outcomes with BGMA-related etiologies.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://academicpages.github.io/files/microbiome_sex_gender_review.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Gancz, N.N., Levinson, J.A., Callaghan, B.C.. (2023). "Sex and Gender as Critical and Distinct Contributors to the Human Brain-Gut-Microbiome Axis" <i>Brain Research Bulletin</i>. 199.
