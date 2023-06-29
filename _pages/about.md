@@ -10,8 +10,8 @@ redirect_from:
 
 Overview
 ---
-I am a doctoral student in psychology at the University of California, Los Angeles. My
-research examines how early experiences affect the brain-gut-microbiome axis.
+I am a doctoral student in psychology at the University of California, Los Angeles. 
+I research how early experiences affect the brain-gut-microbiome axis.
 
 Research Interests
 ---
@@ -27,7 +27,7 @@ us to stay healthy.
 
 Research Methods
 ---
-My research relies on a wide variety of methods, including 16S target gene sequencing,
+My work implements a wide variety of methods, including 16S target gene sequencing,
 metagenomics, electrocardiogram, electrodermal activity, electrogastrography, functional
 neuroimaging, and surveys.
 
