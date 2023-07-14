@@ -14,4 +14,4 @@ care) had slightly but significantly different oral microbiomes than did youth w
 and that the microbiomes of youth with early adversity were less strongly associated with cortisol.
 However, the oral microbiome was not significantly associated with mental health in our sample.
 
-[Download Poster]('http://ngancz.github.io/files/ISDP 2023 Poster Gancz.pdf')
+[Download Poster](http://ngancz.github.io/files/ISDP 2023 Poster Gancz.pdf)
