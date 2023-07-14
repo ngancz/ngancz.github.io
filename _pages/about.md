@@ -17,12 +17,12 @@ Research Interests
 ---
 Childhood and adolescence are important times for the development of the brain-gut-
 microbiome axis. The "brain-gut-microbiome axis" is the system that lets the
-brain and gut talk to each other and to the microbiome: the microorganisms that
-inhabit our body. Normally, the microorganisms that live in and on our bodies
+brain and gut talk to each other and to the microbiome: the microorganisms, or germs, that
+inhabit our body. Usually, the microorganisms that live in and on our bodies
 help us to stay healthy, but sometimes, distruptions to the balance of the microbiome
-can increase our risk for disease. Understanding how early experiences can affect
-our health by changing our brain-gut-microbiome axis will help us to figure out new
-ways to stay healthy.
+can increase our risk for disease. Understanding how our bodies, brains, and the friendly
+germs that live in and around us all work together will help us to figure out new
+ways to help kids grow up happy and healthy.
 
 Research Methods
 ---
