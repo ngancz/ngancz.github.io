@@ -1,7 +1,7 @@
 ---
 title: "Oral Microbiome and Cortisol in a Community Sample of Youth"
 collection: talks
-type: "Talk"
+type: "Conference Poster"
 permalink: /talks/2012-03-01-talk-1
 venue: "International Society for Developmental Psychobiology"
 date: 2022-11-09
