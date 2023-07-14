@@ -1,7 +1,7 @@
 ---
 title: "A Gut Feeling: Examining Electrogastrography as a Biomarker of Affective Responses"
 collection: talks
-type: "Talk"
+type: "Conference Poster"
 permalink: /talks/2014-02-01-talk-2
 venue: "Society for Affective Science"
 date: 2023-03-20
