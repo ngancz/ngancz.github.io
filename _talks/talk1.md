@@ -1,7 +1,7 @@
 ---
 title: "Early Adversity is Associated with Altered Oral Microbiome Composition and a Blunted Correlation Between Cortisol and Microbiome Richness in Youth"
 collection: talks
-type: "Conference proceedings talk"
+type: "Conference Poster"
 permalink: /talks/2014-03-01-talk-3
 venue: "International Society for Developmental Psychobiology"
 date: 2023-07-28
