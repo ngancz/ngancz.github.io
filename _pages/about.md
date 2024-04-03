@@ -10,7 +10,7 @@ redirect_from:
 
 Overview
 ---
-I am a doctoral student in psychology at the University of California, Los Angeles. 
+I am a 3rd-year doctoral student in psychology at the University of California, Los Angeles. 
 I research how early experiences affect the brain-gut-microbiome and brain-oral-microbiome axes.
 
 Research Interests
