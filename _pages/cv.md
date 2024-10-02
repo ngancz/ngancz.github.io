@@ -7,6 +7,6 @@ redirect_from:
   - /resume
 ---
 
-[Download CV](http://ngancz.github.io/files/Naomi Gancz CV 10.1.24_noemail.pdf)
+[Download CV]('http://ngancz.github.io/files/Naomi Gancz CV 10.1.24_noemail.pdf')
 
 
