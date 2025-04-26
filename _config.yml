@@ -68,7 +68,7 @@ og_image                 :  # Open Graph/Twitter default site image
 social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  links: "https://bsky.app/profile/ngancz.bsky.social"
 
 
 # Analytics
@@ -91,7 +91,6 @@ author:
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
-  bsky             : "https://bsky.app/profile/ngancz.bsky.social"
   codepen          :
   dribbble         :
   flickr           :
