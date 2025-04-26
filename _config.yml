@@ -68,7 +68,7 @@ og_image                 :  # Open Graph/Twitter default site image
 social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
-  links: "https://bsky.app/profile/ngancz.bsky.social"
+  links: #
 
 
 # Analytics
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ngancz"
+  github           : #"ngancz"
   google_plus      :
   keybase          :
   instagram        :
