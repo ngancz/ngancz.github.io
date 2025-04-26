@@ -13,6 +13,8 @@ Overview
 I am a 4th-year doctoral student in psychology at the University of California, Los Angeles. 
 I research how early experiences affect the brain-gut-microbiome and brain-oral-microbiome axes.
 
+<a href="https://bsky.app/profile/ngancz.bsky.social">Follow me on Bluesky</a>
+
 Research Interests
 ---
 Childhood and adolescence are important times for the development of the brain-gut-
@@ -35,6 +37,4 @@ Pedagogy is a critical aspect of my work. I strive to implement evidence-based
 methods in the classroom and to support diversity, equity, and inclusion in the next
 generation of scientists. I especially enjoy one-on-one mentoring.
 
-Social
----
-<a href="https://bsky.app/profile/ngancz.bsky.social">Follow me on Bluesky</a>
+
