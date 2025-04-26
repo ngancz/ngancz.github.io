@@ -34,3 +34,7 @@ Teaching
 Pedagogy is a critical aspect of my work. I strive to implement evidence-based
 methods in the classroom and to support diversity, equity, and inclusion in the next
 generation of scientists. I especially enjoy one-on-one mentoring.
+
+Social
+---
+<a href="https://bsky.app/profile/ngancz.bsky.social">Follow me on Bluesky</a>
