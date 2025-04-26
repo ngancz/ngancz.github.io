@@ -26,9 +26,8 @@ ways to help kids grow up happy and healthy.
 
 Research Methods
 ---
-My work implements a wide variety of methods, including 16S target gene sequencing,
-metagenomics, electrocardiogram, electrodermal activity, electrogastrography, functional
-neuroimaging, and questionnaires.
+My work integrates a wide variety of methods, including 16S target gene sequencing,
+shotgun metagenomics, electrophysiology, and functional neuroimaging.
 
 Teaching
 ---
