@@ -10,7 +10,7 @@ redirect_from:
 
 Overview
 ---
-I am a 4th-year doctoral student in psychology at the University of California, Los Angeles. 
+I am a 5th-year doctoral candidate in psychology at the University of California, Los Angeles. 
 I research how early experiences affect the brain-gut-microbiome and brain-oral-microbiome axes.
 
 <a href="https://bsky.app/profile/ngancz.bsky.social">Follow me on Bluesky</a>
@@ -29,12 +29,4 @@ ways to help kids grow up happy and healthy.
 Research Methods
 ---
 My work integrates a wide variety of methods, including 16S target gene sequencing,
-shotgun metagenomics, electrophysiology, and functional neuroimaging.
-
-Teaching
----
-Pedagogy is a critical aspect of my work. I strive to implement evidence-based
-methods in the classroom and to support diversity, equity, and inclusion in the next
-generation of scientists. I especially enjoy one-on-one mentoring.
-
-
+shotgun metagenomics, electrophysiology, and neuroimaging.
